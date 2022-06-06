@@ -34,7 +34,7 @@ export const DateComponent = () => {
         daysLife && (
           <div>
             <p>
-              You've lived for <strong>{daysLife}</strong> days
+              You have lived for <strong>{daysLife}</strong> days
             </p>
           </div>
         )
